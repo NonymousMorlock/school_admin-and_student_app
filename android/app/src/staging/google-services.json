@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "348336127326",
+    "project_id": "benaiah-mobile-app",
+    "storage_bucket": "benaiah-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348336127326:android:5e2fe0169c0f13d361e3cf",
+        "android_client_info": {
+          "package_name": "co.benaiah.benaiah_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApuukG5oCFqHcgB0sRmrpTUtDC-5MCsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348336127326:android:ab9c1f0d3acd1ba661e3cf",
+        "android_client_info": {
+          "package_name": "co.benaiah.benaiah_mobile_app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApuukG5oCFqHcgB0sRmrpTUtDC-5MCsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348336127326:android:daae4e06f7c1976a61e3cf",
+        "android_client_info": {
+          "package_name": "co.benaiah.benaiah_mobile_app.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApuukG5oCFqHcgB0sRmrpTUtDC-5MCsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
