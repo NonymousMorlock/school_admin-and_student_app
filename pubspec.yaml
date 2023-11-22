@@ -15,7 +15,7 @@ dependencies:
   device_preview: ^1.1.0
   equatable: ^2.0.5
   firebase_auth: ^4.10.0
-  firebase_core: ^2.16.0
+  firebase_core: ^2.23.0
   firebase_ui_auth: ^1.8.0
   fl_chart: ^0.64.0
   flutter:
